@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZhuangChuan</title>
-    <description>个人博客 | 庄川，网络文章总结 | 这里是 庄川 的个人博客。</description>
-    <link>http://localhost:4000/zcblog/</link>
-    <atom:link href="http://localhost:4000/zcblog/feed.xml" rel="self" type="application/rss+xml" />
+    <description>个人博客 | 艾申富，网络文章总结 | 这里是 艾申富 的个人博客。</description>
+    <link>http://localhost:4000/asfblog/</link>
+    <atom:link href="http://localhost:4000/asfblog/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 02 Sep 2019 23:44:11 +0800</pubDate>
     <lastBuildDate>Mon, 02 Sep 2019 23:44:11 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
@@ -290,8 +290,8 @@
 &lt;p&gt;关于其它扩展语法可参见具体工具的使用说明。&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/zcblog/2016/03/07/markdown-introduce/</link>
-        <guid isPermaLink="true">http://localhost:4000/zcblog/2016/03/07/markdown-introduce/</guid>
+        <link>http://localhost:4000/asfblog/2016/03/07/markdown-introduce/</link>
+        <guid isPermaLink="true">http://localhost:4000/asfblog/2016/03/07/markdown-introduce/</guid>
         
         <category>Markdown</category>
         

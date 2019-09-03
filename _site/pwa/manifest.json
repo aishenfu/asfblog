@@ -1,6 +1,6 @@
 {
-  "name": "Zark Blog",
-  "short_name": "Zark Blog",
+  "name": "aishenfu Blog",
+  "short_name": "aishenfu Blog",
   "description": " 非著名程序员 ",
   "icons": [{
     "src": "icons/128.png",
@@ -13,7 +13,7 @@
   }],
   "background_color": "#fff",
   "theme_color": "#000",
-  "start_url": "/zcblog",
+  "start_url": "/asfblog",
   "display": "standalone",
   "orientation": "portrait"
 }
