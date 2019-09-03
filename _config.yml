@@ -1,11 +1,11 @@
 # Site settings
-title: ZhuangChuan
-SEOTitle: 庄川的博客 | Zark
+title: AiShenFu
+SEOTitle: 艾申富的博客 | AiShenFu
 header-img: img/root/home-bg-fj.jpg
-email:  486289410@qq.com
-description: "个人博客 | 庄川，网络文章总结 | 这里是 庄川 的个人博客。"
-keyword: "zark, zhuangchuan, 庄川的博客, Zark Blog, 博客, 个人网站, 互联网, Java, 数据库, 后端, 开发"
-url: "https://zcgitzc.github.io/zcblog/"              # your host, for absolute URL
+email:  aishenfu@foxmail.com
+description: "个人博客 | 艾申富，网络文章总结 | 这里是 艾申富 的个人博客。"
+keyword: "aishenfu, 艾申富的博客, aishenfu Blog, 博客, 个人网站, 互联网, Java, 数据库, 后端, 开发"
+url: "https://aishenfu.github.io/asfblog/"              # your host, for absolute URL
 baseurl: "/asfblog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: true
 #zhihu_username:     zark
-github_username:    zcgitzc
+github_username:    aishenfu
 #linkedin_username:  zark
 #weibo_username:    
 #twitter_username:   
@@ -88,7 +88,7 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "庄川的博客",
+        title: "Zark log",
         href: "https://zcgitzc.github.io/zcblog/"
     }
 ]
